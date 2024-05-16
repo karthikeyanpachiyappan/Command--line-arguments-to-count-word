@@ -20,6 +20,7 @@ Display the total words in the file.
 ### Step 7:
 Close the file pointer and end the program
 ## PROGRAM:
+
 ```
 Developed by: Karthikeyan P
 Register no: 212223230102
@@ -35,7 +36,9 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
-![image](https://github.com/karthikeyanpachiyappan/Command--line-arguments-to-count-word/assets/155143878/fbbe3907-88b6-44ae-b92a-fbaaade06942)
+![commend line](https://github.com/karthikeyanpachiyappan/Command--line-arguments-to-count-word/assets/155143878/37ae5286-6067-4332-bf5e-128ab818c6b5)
+
+
 
 
 
